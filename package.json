@@ -6,7 +6,7 @@
     },
     "description": "Node-RED on cloud, deployed in Heroku",
     "engines": {
-        "node": "14.x"
+        "node": "18.x"
     },
     "keywords": [
         "node",
